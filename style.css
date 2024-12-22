@@ -1,0 +1,15 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    font-weight: 800;
+    font-weight: 700;
+    text-align: center;
+}
+
+.recipe-link {
+    font-weight:500;
+    color: orange;
+    text-decoration: underline;
+}
